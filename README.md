@@ -28,15 +28,15 @@ This project involves scraping and analyzing data related to Mars, including tem
 
 ### Questions Answered
 
-1. **How many months exist on Mars?** There are a total of X months on Mars.
+1. **How many months exist on Mars?** There are a total of 12 months on Mars.
 
-2. **How many Martian (and not Earth) days' worth of data exist in the scraped dataset?** There are X Martian days' worth of data in the dataset.
+2. **How many Martian (and not Earth) days' worth of data exist in the scraped dataset?** There are 1867 Martian days' worth of data in the dataset.
 
-3. **Which month, on average, has the lowest temperature? The highest?** The month with the lowest average temperature is X, with an average low temperature of Y°C. The month with the highest average temperature is Z, with an average low temperature of W°C.
+3. **Which month, on average, has the lowest temperature? The highest?** The month with the lowest average temperature is month 3, with an average low temperature of -83.3°C. The month with the highest average temperature is month 8, with an average low temperature of -68.3°C.
 
-4. **Which month, on average, has the lowest atmospheric pressure? The highest?** The month with the lowest average atmospheric pressure is X, with an average pressure of Y. The month with the highest average atmospheric pressure is Z, with an average pressure of W.
+5. **Which month, on average, has the lowest atmospheric pressure? The highest?** The month with the lowest average atmospheric pressure is month 6, with an average pressure of 745.05. The month with the highest average atmospheric pressure is month 9, with an average pressure of 913.31.
 
-5. **About how many terrestrial (Earth) days exist in a Martian year?** There are approximately X terrestrial days in a Martian year.
+6. **About how many terrestrial (Earth) days exist in a Martian year?** There are approximately 705.8 terrestrial days in a Martian year.
 
 ## Data Export
 
